@@ -1,0 +1,8 @@
+{
+  "name": "AstraCraft Studio - Lunar Game Engine & Level Editor",
+  "description": "Game development studio for 2D lunar physics rover platformers and Cursed Treasure style tower defence games with integrated level editors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
